@@ -5,3 +5,4 @@ print("My name is Manuri")
 
 print("Added from local")
 print("Going to test pull")
+print("added from remote")
