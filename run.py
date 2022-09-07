@@ -1,3 +1,5 @@
+import pandas as pd
+
 print("Hello Git !!")
 
 print("Newly added line")
@@ -15,3 +17,5 @@ print("check with this line")
 print("check merge again")
 print("want to keep this line")
 print("Number to print 3")
+
+df = pd.read_csv("test.csv")
