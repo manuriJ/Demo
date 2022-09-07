@@ -8,6 +8,3 @@ print("Going to test pull")
 print("added from remote")
 
 print("want to add this line")
-
-
-print("want rewrite this")
